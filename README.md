@@ -1,4 +1,4 @@
-# Ask_Pdf_with_openai
+# Ask_CV_with_openai
 
 Use Streamlit to make User Interface.
 Langchain and openai for embeddings and question and answering.
